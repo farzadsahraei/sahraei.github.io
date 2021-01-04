@@ -1,9 +1,8 @@
-# MahdiYazdiRad.github.io
+# farzadsahraei.github.io
 
-### رزومه مهدی یزدی راد
+### رزومه فرزاد صحرائی
  
 ---
-- [resume](https://MahdiYazdiRad.github.io/)
-- [resume (on my domain)](http://MahdiYazdi.ir/)
+- [resume](https://farzadsahraei.github.io/)
   
 ------------------
