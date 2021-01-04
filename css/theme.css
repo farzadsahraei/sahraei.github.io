@@ -3,7 +3,7 @@
 }
 
 body {
-    background: #F0F0F0;
+    background: #0b0c10;
     overflow-x: auto;
 }
 
@@ -34,7 +34,7 @@ body {
 }
 
 #r-main {
-    background: white;
+    background: #94a8af;
     padding: 0 0 2em;
 }
 
@@ -48,7 +48,7 @@ body {
 }
 
 .r-side-back.r-color {
-    background: #00658d;
+    background: #012c3e;
 }
 
 .r-side-back.r-image {
